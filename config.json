@@ -1,18 +1,18 @@
 {
 	"pools":[
 	{
-		"name": "ciscotech",
-        	"url": "vrsc.ciscotech.dk:9999",
+		"name": "wattpool",
+        	"url": "verus.wattpool.net1232",
 		"timeout": 150
 	},
 	{
 		"name": "Failover1",
-        	"url": "stratum+tcp://verus.wattpool.net:1232",
+        	"url": "vrsc.ciscotech.dk:9999",
 		"timeout": 150
 	},
 	{
 		"name": "Failover2",
-        	"url": "stratum+tcp://verus.aninterestinghole.xyz:9999",
+        	"url": "verushash.na.mine.zergpool.com:13300",
 		"timeout": 150
 	}
 	],
