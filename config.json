@@ -1,18 +1,18 @@
 {
 	"pools":[
 	{
-		"name": "LuckPool",
-        	"url": "stratum+tcp://na.luckpool.net:3960",
+		"name": "wattpool",
+        	"url": "stratum+tcp://verus.wattpool.net:1232",
 		"timeout": 150
 	},
 	{
-		"name": "LuckPoolFailover1",
-        	"url": "stratum+tcp://na.luckpool.net:3956",
+		"name": "Failover1",
+        	"url": "stratum+tcp://vrsc.ciscotech.dk:9999",
 		"timeout": 150
 	},
 	{
-		"name": "LuckPoolFailover2",
-        	"url": "stratum+tcp://na.luckpool.net:3957",
+		"name": "Failover2",
+        	"url": "stratum+tcp://verushash.na.zergpool.com:3300",
 		"timeout": 150
 	}
 	],
