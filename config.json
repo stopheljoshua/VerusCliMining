@@ -1,22 +1,22 @@
 {
 	"pools":[
 	{
-		"name": "LuckPool",
-        	"url": "stratum+tcp://na.luckpool.net:3960",
+		"name": "ciscotech",
+        	"url": "vrsc.ciscotech.dk:9999",
 		"timeout": 150
 	},
 	{
-		"name": "LuckPoolFailover1",
-        	"url": "stratum+tcp://na.luckpool.net:3956",
+		"name": "Failover1",
+        	"url": "stratum+tcp://verus.wattpool.net:1232",
 		"timeout": 150
 	},
 	{
-		"name": "LuckPoolFailover2",
-        	"url": "stratum+tcp://na.luckpool.net:3957",
+		"name": "Failover2",
+        	"url": "stratum+tcp://verus.aninterestinghole.xyz:9999",
 		"timeout": 150
 	}
 	],
-	"user": "RKbgnfWAbL43K1HrxLoWcDzRmTspYFRj6U.PHONE_FARM",
+	"user": "R9vFzUmpQYYtPvPGi6wLQADeCFD32ABNVo.PhoneFarm",
 	"pass": "x",
 	"algo": "verus",
 	"threads": 8,
