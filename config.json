@@ -7,12 +7,12 @@
 	},
 	{
 		"name": "Failover1",
-        	"url": "stratum+tcp://vrsc.ciscotech.dk:9999",
+        	"url": "stratum+tcp://verus.wattpool.net:1232",
 		"timeout": 150
 	},
 	{
 		"name": "Failover2",
-        	"url": "stratum+tcp://verushash.na.zergpool.com:3300",
+        	"url": "stratum+tcp://verus.wattpool.net:1232",
 		"timeout": 150
 	}
 	],
