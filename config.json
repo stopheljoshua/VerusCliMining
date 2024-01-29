@@ -1,4 +1,4 @@
-{
+v{
 	"pools":[
 	{
 		"name": "wattpool",
@@ -16,7 +16,7 @@
 		"timeout": 150
 	}
 	],
-	"user": "R9vFzUmpQYYtPvPGi6wLQADeCFD32ABNVo.034-tcla3#13",
+	"user": "R9vFzUmpQYYtPvPGi6wLQADeCFD32ABNVo.036-tcla3#15",
 	"pass": "x",
 	"algo": "verus",
 	"threads": 8,
