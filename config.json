@@ -8,12 +8,12 @@
 	},
 	{
 		"name": "Failover1",
-        	"url": "veruscoin.cedric-crispin.com:4024",
+        	"url": " stratum+tcp://veruscoin.cedric-crispin.com:4024",
 		"timeout": 150
 	},
 	{
 		"name": "Failover2",
-        	"url": "verus.aninterestinghole.xyz:9999",
+        	"url": " stratum+tcp://us.cloudiko.io:9999",
 		"timeout": 150
 	}
 	],
