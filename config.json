@@ -1,18 +1,18 @@
 {
 	"pools":[
 	{
-		"name": "wattpool",
-        	"url": "stratum+tcp://verus.wattpool.net:1232",
+		"name": "LuckPool",
+        	"url": "stratum+tcp://na.luckpool.net:3960",
 		"timeout": 150
 	},
 	{
-		"name": "cloudiko",
-        	"url": " stratum+tcp://us.cloudiko.io:9999",
+		"name": "LuckPoolFailover1",
+        	"url": "stratum+tcp://na.luckpool.net:3956",
 		"timeout": 150
 	},
 	{
-		"name": "cedric-crispin",
-        	"url": " stratum+tcp://veruscoin.cedric-crispin.com:4024",
+		"name": "LuckPoolFailover2",
+        	"url": "stratum+tcp://na.luckpool.net:3957",
 		"timeout": 150
 	}
 	],
@@ -24,4 +24,4 @@
 	"retry-pause": 5,
 	"api-allow": "192.168.0.0/16",
 	"api-bind": "0.0.0.0:4068"
-}
+} 
