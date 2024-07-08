@@ -1,4 +1,3 @@
-
 {
 	"pools":[
 	{
@@ -7,17 +6,17 @@
 		"timeout": 150
 	},
 	{
-		"name": "Failover1",
-        	"url": "stratum+tcp://veruscoin.cedric-crispin.com:4024",
+		"name": "cloudiko",
+        	"url": " stratum+tcp://us.cloudiko.io:9999",
 		"timeout": 150
 	},
 	{
-		"name": "Failover2",
-        	"url": "stratum+tcp://us.cloudiko.io:9999",
+		"name": "cedric-crispin",
+        	"url": " stratum+tcp://veruscoin.cedric-crispin.com:4024",
 		"timeout": 150
 	}
 	],
-	"user": "R9vFzUmpQYYtPvPGi6wLQADeCFD32ABNVo.phonefarm",
+	"user": "RKbgnfWAbL43K1HrxLoWcDzRmTspYFRj6U.PHONE_FARM",
 	"pass": "x",
 	"algo": "verus",
 	"threads": 8,
