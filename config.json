@@ -2,18 +2,18 @@
 {
 	"pools":[
 	{
-		"name": "wattpool",
-        	"url": "stratum+tcp://verus.wattpool.net:1232",
+		"name": "ciscotech",
+        	"url": "stratum+tcp://vrsc.ciscotech.dk:9999",
 		"timeout": 150
 	},
 	{
-		"name": "Failover1",
-        	"url": "stratum+tcp://veruscoin.cedric-crispin.com:4024",
+		"name": "paddypool",
+        	"url": "stratum+tcp://paddypool.net:9998",
 		"timeout": 150
 	},
 	{
-		"name": "Failover2",
-        	"url": "stratum+tcp://us.cloudiko.io:9999",
+		"name": "verus.farm",
+        	"url": "stratum+tcp://verus.farm:9999",
 		"timeout": 150
 	}
 	],
