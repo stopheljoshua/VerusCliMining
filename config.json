@@ -7,13 +7,13 @@
 		"timeout": 150
 	},
 	{
-		"name": "paddypool",
-        	"url": "stratum+tcp://paddypool.net:9998",
+		"name": "verus.farm",
+        	"url": "stratum+tcp://verus.farm:9999",
 		"timeout": 150
 	},
 	{
-		"name": "verus.farm",
-        	"url": "stratum+tcp://verus.farm:9999",
+		"name": "an.iteresring.hole",
+        	"url": "stratum+tcp://verus.aninterestinghole.xyz:9998",
 		"timeout": 150
 	}
 	],
