@@ -12,12 +12,12 @@
 		"timeout": 150
 	},
 	{
-		"name": "luckpool",
-        	"url": "stratum+tcp://na.luckpool.net:3956",
+		"name": "wattpool",
+        	"url": "stratum+tcp://verus.wattpool.net:1232",
 		"timeout": 150
 	}
 	],
-	"user": "R9vFzUmpQYYtPvPGi6wLQADeCFD32ABNVo.newfarm-509dl-022",
+	"user": "R9vFzUmpQYYtPvPGi6wLQADeCFD32ABNVo.newfarm-509dl-023",
 	"pass": "x",
 	"algo": "verus",
 	"threads": 8,
