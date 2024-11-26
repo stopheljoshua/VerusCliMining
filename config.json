@@ -2,8 +2,8 @@
 {
 	"pools":[
 	{
-		"name": "an.iteresring.hole",
-        	"url": "stratum+tcp://verus.aninterestinghole.xyz:9998",
+		"name": "wattpool",
+        	"url": "stratum+tcp://verus.wattpool.net:1232",
 		"timeout": 150
 	},
 	{
@@ -12,8 +12,8 @@
 		"timeout": 150
 	},
 	{
-		"name": "wattpool",
-        	"url": "stratum+tcp://verus.wattpool.net:1232",
+		"name": "an.iteresring.hole",
+        	"url": "stratum+tcp://verus.aninterestinghole.xyz:9998",
 		"timeout": 150
 	}
 	],
