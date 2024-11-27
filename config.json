@@ -1,28 +1,28 @@
 
 {
-	"pools":[
-	{
-		"name": "paddypool",
-        	"url": "stratum+tcp://paddypool.net:9998",
-		"timeout": 150
-	},
-	{
-		"name": "an.iteresring.hole",
-        	"url": " stratum+tcp://verus.aninterestinghole.xyz:9998",
-		"timeout": 150
-	},
-	{
-		"name": "wattpool",
-        	"url": "stratum+tcp://verus.wattpool.net:1232",
-		"timeout": 150
-	}
-	],
-	"user": "R9vFzUmpQYYtPvPGi6wLQADeCFD32ABNVo.newfarm-509dl-028",
-	"pass": "x",
-	"algo": "verus",
-	"threads": 8,
-	"cpu-priority": 1,
-	"retry-pause": 5,
-	"api-allow": "192.168.0.0/16",
-	"api-bind": "0.0.0.0:4068"
+"pools":[
+{
+"name": "paddypool",
+"url": "stratum+tcp://paddypool.net:9998",
+"timeout": 150
+},
+{
+"name": "an.iteresring.hole",
+"url": "stratum+tcp://verus.aninterestinghole.xyz:9998",
+"timeout": 150
+},
+{
+"name": "wattpool",
+"url": "stratum+tcp://verus.wattpool.net:1232",
+"timeout": 150
+}
+],
+"user": "R9vFzUmpQYYtPvPGi6wLQADeCFD32ABNVo.newfarm-509dl-024",
+"pass": "x",
+"algo": "verus",
+"threads": 8,
+"cpu-priority": 1,
+"retry-pause": 5,
+"api-allow": "192.168.0.0/16",
+"api-bind": "0.0.0.0:4068"
 }
