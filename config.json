@@ -17,12 +17,12 @@
 "timeout": 150
 }
 ],
-"user": "R9vFzUmpQYYtPvPGi6wLQADeCFD32ABNVo.newfarm-509dl-024",
+"user": "R9vFzUmpQYYtPvPGi6wLQADeCFD32ABNVo.newfarm-509dl-028",
 "pass": "x",
 "algo": "verus",
 "threads": 8,
 "cpu-priority": 1,
-"retry-pause": 5,
+"retry-pause": 10,
 "api-allow": "192.168.0.0/16",
 "api-bind": "0.0.0.0:4068"
 }
