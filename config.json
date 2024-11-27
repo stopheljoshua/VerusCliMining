@@ -3,7 +3,7 @@
 	"pools":[
 	{
 		"name": "paddypool",
-        	"url": " stratum+tcp://paddypool.net:9998",
+        	"url": "stratum+tcp://paddypool.net:9998",
 		"timeout": 150
 	},
 	{
@@ -13,7 +13,7 @@
 	},
 	{
 		"name": "wattpool",
-        	"url": " stratum+tcp://verus.wattpool.net:1232",
+        	"url": "stratum+tcp://verus.wattpool.net:1232",
 		"timeout": 150
 	}
 	],
