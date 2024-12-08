@@ -1,4 +1,3 @@
-
 {
 "pools":[
 {
@@ -7,17 +6,19 @@
 "timeout": 150
 },
 {
-"name": "paddypool",
-"url": "stratum+tcp://paddypool.net:9998",
-"timeout": 150
-},
-{
 "name": "an.iteresring.hole",
 "url": "stratum+tcp://verus.aninterestinghole.xyz:9998",
 "timeout": 150
+},
+{
+"name": "paddypool",
+"url": "stratum+tcp://paddypool.net:9998",
+"timeout": 150
 }
 ],
-"user": "R9vFzUmpQYYtPvPGi6wLQADeCFD32ABNVo.000newfarm.orbic",
+
+
+"user": "R9vFzUmpQYYtPvPGi6wLQADeCFD32ABNVo.newfarm-orbicjoy-030",
 "pass": "x",
 "algo": "verus",
 "threads": 8,
@@ -25,4 +26,4 @@
 "retry-pause": 10,
 "api-allow": "192.168.0.0/16",
 "api-bind": "0.0.0.0:4068"
-}
+} 
